@@ -69,7 +69,7 @@ Representa la distribución del ingreso mes por mes de cada plan:
 
 ## Aprendizajes
 - Aplicación de estadística en decisiones reales
+- Cómo convertir datos en revenue
+- Importancia del análisis comparativo
 
-
-•	Cómo convertir datos en revenue
-•	Importancia del análisis comparativo
+  
