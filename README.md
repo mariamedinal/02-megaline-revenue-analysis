@@ -44,7 +44,7 @@ Determinar qué plan (Surf vs Ultimate) genera mayor ingreso promedio por usuari
 - Mejora en segmentación de clientes
 - Soporte para decisiones de marketing
 
-## Enfoque financiero (MUY fuerte aquí)
+## Enfoque financiero
 - Cálculo de revenue real por usuario
 - Identificación de clientes más rentables
 - Base para proyecciones de ingresos
