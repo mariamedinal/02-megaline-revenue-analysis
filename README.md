@@ -1,4 +1,4 @@
-# 02-megaline-revenue-analysis
+# Megaline-revenue-analysis
 MEGALINE REVENUE ANALYSIS
 
 ## Descripción del proyecto
